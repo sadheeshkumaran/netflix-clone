@@ -1,7 +1,7 @@
 export default function Navbar() {
   return (
     <header className="flex justify-between items-center px-8 py-4 fixed w-full bg-black bg-opacity-80 z-10">
-      <img src="/assets/netflix-logo.png" alt="Netflix Logo" className="w-28" />
+      <img src=".\src\assets\netflix.png" alt="Netflix Logo" className="w-28"/>
       <nav className="hidden md:flex space-x-6">
         <a href="#">Home</a>
         <a href="#">TV Shows</a>
