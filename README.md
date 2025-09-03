@@ -76,8 +76,13 @@ You can deploy easily with:
 * Vercel (best for React apps)
 
 ## 📸 Screenshots
-![Screen shot]()
-![Screen shot]()
+**Header Section**
+
+![Screen shot](./public/Screenshot-1.png)
+
+**Body Section**
+
+![Screen shot](./public/Screenshot-2.png)
 
 ## 🎯 Future Improvements
 
